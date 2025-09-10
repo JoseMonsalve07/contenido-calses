@@ -1,3 +1,5 @@
+#https://github.com/watchmakercomeback/contenido-calses/blob/clase-3-b/Ejercicio.md
+
 # 🧩 Reto: Gestor de Biblioteca con Tipos Deducidos
 
 Este reto está diseñado para que combines **lógica de programación** con el uso de **tipos y Utility Types en TypeScript**.  
@@ -50,9 +52,9 @@ Crea una función que reciba una lista de items (`ItemBiblioteca<Libro | Revista
 
 ---
 
-### 5. Conteo por categoría (extra 🌟)
+### 5. Conteo por categoría
 
 Crea un **enum** `Categoria` con valores `Libro` y `Revista`.  
-A partir de la lista de items, genera un `Record<Categoria, number>` que lleve el conteo de cuántos recursos de cada tipo hay en la biblioteca.
+A partir de la lista de items, genera un `Tipo que te permita` llevar el conteo de cuántos recursos de cada tipo hay en la biblioteca.
 
 ---
