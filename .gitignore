@@ -3,7 +3,7 @@ node_modules/
 
 # Ignorar archivos compilados de TypeScript
 *.ts
-
+taller-estructuras-typescript.md
 # Ignorar archivos de salida de TypeScript (por ejemplo dist o build)
 dist/
 build/
